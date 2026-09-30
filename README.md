@@ -1,5 +1,5 @@
 # python_stock_portfolio_tracker
-
+def main():
     # 1. Hardcoded dictionary defining stock prices
     stock_prices = {
         "AAPL": 180.00,
